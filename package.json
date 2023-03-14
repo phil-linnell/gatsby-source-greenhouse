@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegolamanno/gatsby-source-greenhouse"
+    "url": "https://github.com/phil-linnell/gatsby-source-greenhouse"
   },
   "bugs": {
-    "url": "https://github.com/diegolamanno/gatsby-source-greenhouse/issues"
+    "url": "https://github.com/phil-linnell/gatsby-source-greenhouse/issues"
   },
   "contributors": [
     "Cam Sloan <cameron@sloan.ca>",
@@ -19,7 +19,7 @@
     "Bay Phillips <bay.phillips@plated.com>",
     "Joe Alfaro <joe.alfaro@anchorage.com>"
   ],
-  "homepage": "https://github.com/diegolamanno/gatsby-source-greenhouse",
+  "homepage": "https://github.com/phil-linnell/gatsby-source-greenhouse",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
@@ -27,7 +27,6 @@
     "greenhouse",
     "ats"
   ],
-  "author": "Diego La Manno <diegolamanno@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
